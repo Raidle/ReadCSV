@@ -1,0 +1,5 @@
+Gustavo Alatta,galatta@ccc.edu,Chicago,55
+Eldiar Emilbekov,eemilbekov@ccc.student.edu,Chicago,19
+Playboi Carti,playboicarti@gmail.com,Atlanta,27
+Asap Rocky,asaprocky@gmail.com,New York,35
+Kanye West,yeezy@gmail.com,Atlanta,46
